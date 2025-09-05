@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Armand75/odin-basic-information-site#readme",
   "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
     "nodemon": "^3.1.10"
   }
 }
